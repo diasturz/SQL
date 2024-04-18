@@ -1,4 +1,4 @@
-# Aqui estão os problemas solucionados no site BeeCrowd
+# Aqui estão os problemas solucionados do site BeeCrowd
 
 # Problema 2996
 
