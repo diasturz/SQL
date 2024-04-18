@@ -4,7 +4,8 @@
 Este repositório contém as minhas soluções para os exercícios do site Beecrowd (https://www.beecrowd.com.br/), uma plataforma para prática de programação competitiva.
 Aqui você encontrará soluções para diversos problemas de programação, organizados por categoria e nível de dificuldade.
 
-Estrutura do Repositório
+
+# Estrutura do Repositório
 Exercício1/: Pasta contendo a solução para o problema 1.
 Exercício2/: Pasta contendo a solução para o problema 2.
 Exercício3/: Pasta contendo a solução para o problema 3.
