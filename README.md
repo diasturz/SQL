@@ -6,9 +6,9 @@ Aqui você encontrará soluções para diversos problemas de programação, orga
 
 
 # Estrutura do Repositório
-Exercício1/: Pasta contendo a solução para o problema 1.
-Exercício2/: Pasta contendo a solução para o problema 2.
-Exercício3/: Pasta contendo a solução para o problema 3.
+Exercício1: Pasta contendo a solução para o problema 1.
+Exercício2: Pasta contendo a solução para o problema 2.
+Exercício3: Pasta contendo a solução para o problema 3.
 ...
 
 # Como Utilizar
